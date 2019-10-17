@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ana-margarida-portfolio-website/static/css/main.1dafce54.chunk.css",
+    "main.js": "/Ana-margarida-portfolio-website/static/js/main.e9bed397.chunk.js",
+    "main.js.map": "/Ana-margarida-portfolio-website/static/js/main.e9bed397.chunk.js.map",
+    "runtime-main.js": "/Ana-margarida-portfolio-website/static/js/runtime-main.7e0e140c.js",
+    "runtime-main.js.map": "/Ana-margarida-portfolio-website/static/js/runtime-main.7e0e140c.js.map",
+    "static/js/2.121f7309.chunk.js": "/Ana-margarida-portfolio-website/static/js/2.121f7309.chunk.js",
+    "static/js/2.121f7309.chunk.js.map": "/Ana-margarida-portfolio-website/static/js/2.121f7309.chunk.js.map",
+    "index.html": "/Ana-margarida-portfolio-website/index.html",
+    "precache-manifest.b1d3ead08fa0608d514d40e386f8a88c.js": "/Ana-margarida-portfolio-website/precache-manifest.b1d3ead08fa0608d514d40e386f8a88c.js",
+    "service-worker.js": "/Ana-margarida-portfolio-website/service-worker.js",
+    "static/css/main.1dafce54.chunk.css.map": "/Ana-margarida-portfolio-website/static/css/main.1dafce54.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e0e140c.js",
+    "static/js/2.121f7309.chunk.js",
+    "static/css/main.1dafce54.chunk.css",
+    "static/js/main.e9bed397.chunk.js"
+  ]
+}
